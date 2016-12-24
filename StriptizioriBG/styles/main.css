@@ -1,0 +1,20 @@
+main{
+	background-image: url("img/background.jpg");
+}
+
+#logo{
+	margin-left: 23%;
+}
+
+#navigation{
+	margin-left: 30%;
+	margin-top: 2%;
+}
+#navigation ul{
+	list-style: none;
+}
+
+#navigation li{
+	display: inline;
+}
+
